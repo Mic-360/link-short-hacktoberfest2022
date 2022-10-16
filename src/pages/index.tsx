@@ -8,13 +8,14 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Link Shortener</title>
-        <meta name="description" content="Link Shortener with Next, Prisma, TS, Vercel" />
+        <meta
+          name="description"
+          content="Link Shortener with Next, Prisma, TS, Vercel"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        
-      </main>
+      <main className={styles.main}></main>
 
       <footer className={styles.footer}>
         <a
