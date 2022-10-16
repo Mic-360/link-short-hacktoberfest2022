@@ -51,6 +51,6 @@ Add your image to the Contributors Section.
 Follow how the First image is added.
 ```
 
-<main style="display:flex; flex-direction:row; height:auto; width:5rem;">
-    <img style="border-radius:50px" src="https://github.com/mic-360.png">
-</main>
+<div>
+    <img style="border-radius:50px" height="60" width="60" src="https://github.com/mic-360.png">
+</div>
