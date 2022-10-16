@@ -19,7 +19,7 @@ const SlugQuery = async (req: NextApiRequest, res: NextApiResponse) => {
   if (!data) {
       return res.status(404).json({ error: 'Slug not found' });
   }
-  return res.redirect(data.url);
+  return res.json(data);
 };
 
 export default SlugQuery;
