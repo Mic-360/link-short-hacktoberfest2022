@@ -23,6 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Resources
 
 Important Repository resources:
+
 ```md
 - Typescript
 - Prisma
@@ -53,6 +54,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 </br>
 
 ## Contact Me.
+
 <div style="display:flex; flex-direction:row; gap:10px;">
 <img src="https://img.icons8.com/3d-fluency/100/000000/telegram.png" height="20" width="20">
 
@@ -65,6 +67,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Contributors
 
 Add your image to the Contributors Section.
+
 ```markdown
 Follow how the First image is added.
 ```

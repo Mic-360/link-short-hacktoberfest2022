@@ -1,4 +1,3 @@
-
 # Contribution Rules 📚:
 
 - You are allowed to make spam pull requests.
@@ -9,7 +8,6 @@
 - Add your image to the Contributors Section.
 - Try to keep pull requests small to minimize merge conflicts
 
-
 ## Getting Started 🤩🤗:
 
 - Fork this repo
@@ -18,7 +16,9 @@
 ```terminal
 git clone https://github.com/mic-360/link-short-hacktoberfest2022.git
 ```
+
 - Navigate to project directory.
+
 ```terminal
 cd link-short-hacktoberfest2022
 ```
@@ -36,10 +36,10 @@ git commit -m "Change-Related-hint: Something which makes sense"
 ```
 
 - Then push
+
 ```markdown
 git push origin < your-new-branch >
 ```
-
 
 - Create a new pull request from your forked repository
 
@@ -54,11 +54,13 @@ git remote add upstream https://github.com/mic-360/link-short-hacktoberfest2022
 ```
 
 You can verify that the new remote has been added by typing
+
 ```terminal
 git remote -v
 ```
 
 To pull any new changes from your parent repo simply run
+
 ```terminal
 git merge upstream/master
 ```
