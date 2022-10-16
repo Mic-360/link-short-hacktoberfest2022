@@ -4,6 +4,8 @@ This is web app for shortening links. It is built with Next.js and PlanetScale D
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+</br>
+
 ## Getting Started
 
 First, run the development server:
@@ -15,6 +17,8 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+</br>
 
 ## Resources
 
@@ -28,6 +32,8 @@ Important Repository resources:
 You can start editing the page by modifying `src/pages/index.tsx`. The page auto-updates as you edit the file.
 
 The `src/pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+</br>
 
 ## Learn More
 
@@ -43,6 +49,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+</br>
+
+## Contact Me.
+<div style="display:flex; flex-direction:row; gap:10px;">
+<img src="https://img.icons8.com/3d-fluency/100/000000/telegram.png" height="20" width="20">
+
+[**Telegram**](https://t.me/bhaumic_kun)
+
+</div>
+
+</br>
 
 # Contributors
 
