@@ -17,7 +17,11 @@ const SlugQuery = async (req: NextApiRequest, res: NextApiResponse) => {
   });
 
   if (!data) {
-      return res.status(404).json({ error: 'Slug not found' });
+      res.status(404).json({ error: 'Slug not found' });
+      res.setHeader("Content-Type", "application/json");
+      res.setHeader("Access-Control-Allow-Origin", "*");
+      res.setHeader("Cache-Control", "s-maxage=1000, stale-while-revalidate");
+      return
   }
   return res.json(data);
 };
