@@ -71,4 +71,5 @@ Follow how the First image is added.
 
 <div>
     <img style="border-radius:50px" height="60" width="60" src="https://github.com/mic-360.png">
+        <img style="border-radius:50px" height="60" width="60" src="https://avatars.githubusercontent.com/u/47687479?v=4">
 </div>
