@@ -1,6 +1,6 @@
-import { NextFetchEvent, NextRequest, NextResponse } from 'next/server'
+import { NextRequest, NextResponse } from 'next/server'
 
-export const middleware = async (req: NextRequest, ev: NextFetchEvent) => {
+export const middleware = async (req: NextRequest) => {
   if (req.nextUrl.pathname.startsWith('/api')) {
     console.log('API request')
   }
